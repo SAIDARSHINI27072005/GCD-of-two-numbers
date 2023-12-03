@@ -15,11 +15,6 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
-Program to find the gcd of two number using function.
-Developed by: SAI DARSHINI R S
-RegisterNumber: 23007938 
-*/
 def gcd():
     n1,n2=int(input()),int(input())
     if n1>n2:
@@ -33,7 +28,8 @@ def gcd():
 ```
 
 ## Output:
-![Alt text](image.png)
+![image](https://github.com/SAIDARSHINI27072005/GCD-of-two-numbers/assets/147474227/792db9e7-81a7-4719-9c11-ef71c1cc7e20)
+
 
 
 ## Result:
